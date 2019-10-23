@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 .banner {
-  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('images/background.jpg');
+  background-image: url('images/background.jpg');
   background-size: cover;
   background-position: center;
   padding: 150px 0;
