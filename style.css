@@ -16,13 +16,24 @@ h1, h2, h3 {
 }
 
 .banner {
+<<<<<<< Updated upstream
   background-image: url('images/background.jpg');
+=======
+  background-image: linear-gradient(-225deg, rgba(0,101,168,0.6) 0%, rgba(0,36,61,0.6) 50%), url('images/background.jpg');
+>>>>>>> Stashed changes
   background-size: cover;
   background-position: center;
   padding: 150px 0;
   text-align: center;
 }
 
+<<<<<<< Updated upstream
+=======
+.banner img {
+  height: 100px;
+}
+
+>>>>>>> Stashed changes
 .banner h1 {
   color: white;
   font-size: 45px;
@@ -32,6 +43,7 @@ h1, h2, h3 {
 .banner p {
   color: white;
   font-size: 24px;
+<<<<<<< Updated upstream
   opacity: 0.7;
 }
 .btn-blue {
@@ -49,6 +61,17 @@ h1, h2, h3 {
 .btn-blue:hover {
   background-color: #0D1EC6;
   color: white;
+=======
+  opacity: 0.8;
+}
+
+.typeform-share {
+  background-color: #14319C !important;
+}
+
+.typeform-share:hover {
+  color: #FDCE00 !important;
+>>>>>>> Stashed changes
 }
 
 .card-white {
@@ -72,7 +95,11 @@ h1, h2, h3 {
 }
 
 .footer {
+<<<<<<< Updated upstream
   background: #404042;
+=======
+  background: #14319C;
+>>>>>>> Stashed changes
   color: white;
   padding: 10px 0px;
 }
