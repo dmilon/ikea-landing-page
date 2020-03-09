@@ -39,10 +39,6 @@ h1, h2, h3 {
   opacity: 0.8;
 }
 
-.typeform-share {
-  background-color: #14319C !important;
-}
-
 .typeform-share:hover {
   color: #FDCE00 !important;
 }
